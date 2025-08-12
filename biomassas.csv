@@ -1,11 +1,11 @@
-sigla;regiao;biomassa
-NO;Noroeste;196780.783
-COc;Centro Ocidental;107026.150
-NC;Norte Central;155734.486
-NP;Norte Pioneiro;291727.610
-COr;Centro Oriental;2184043.022
-O;Oeste;153005.996
-SO;Sudoeste;388317.920
-CS;Centro Sul;604346.142
-SE;Sudeste;728383.185
-RMC;Metropolitana de Curitiba;973963.060
+sigla;regiao;biomassa;area
+NO;Noroeste;196780.783;24488.647
+COc;Centro Ocidental;107026.150;11937.031
+NC;Norte Central;155734.486;24555.727
+NP;Norte Pioneiro;291727.610;12726.675
+COr;Centro Oriental;2184043.022;21849.546
+O;Oeste;153005.996;22851.003
+SO;Sudoeste;388317.920;11645.792
+CS;Centro Sul;604346.142;26409.780
+SE;Sudeste;728383.185;17020.900
+RMC;Metropolitana de Curitiba;973963.060;22823.708
